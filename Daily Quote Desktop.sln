@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daily Quote Desktop", "Daily Quote Desktop\Daily Quote Desktop.csproj", "{720D30B2-BEA6-4AAD-AE20-A7766EC63FD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{720D30B2-BEA6-4AAD-AE20-A7766EC63FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720D30B2-BEA6-4AAD-AE20-A7766EC63FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720D30B2-BEA6-4AAD-AE20-A7766EC63FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720D30B2-BEA6-4AAD-AE20-A7766EC63FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8C9DAA-413D-4C9C-A7EC-3CE015A00CDB}
+	EndGlobalSection
+EndGlobal
